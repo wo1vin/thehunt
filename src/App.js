@@ -40,10 +40,10 @@ function Form(){
             <div>
                 <label for="notesInput">Notes</label>
                 <input type="text" id="notesInput"></input>
-            </div></div>
+            </div>
             {/* <div className="formButtom"> */}
-                <button for="connetionEntry" value="submit">Submit</button>
-            {/* </div> */}
+            </div>
+            <button for="connetionEntry" value="submit">X</button>
         </form>
     </div>
 }
